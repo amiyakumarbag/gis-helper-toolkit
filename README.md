@@ -25,3 +25,31 @@ solve daily office problems faster.
 - GIS workflows
 
 ## 📂 Folder Structure
+```text
+gis-helper-toolkit
+├── arcpy-scripts
+│   ├── rename_fields.py
+│   └── remove_domains.py
+│
+├── field-calculator
+│   └── basic_expressions.md
+│
+├── common-errors
+│   └── arcgis-common-errors.md
+│
+└── README.md
+
+## Repository Structure
+
+- arcpy-scripts
+  - rename_fields.py – Rename multiple fields
+  - remove_domains.py – Remove domains from fields
+
+- field-calculator
+  - basic_expressions.md – Daily use field calculator formulas
+
+- common-errors
+  - arcgis-common-errors.md – Real ArcGIS errors & solutions
+
+## How to Use
+Clone the repository and use scripts as per your GIS workflow.
